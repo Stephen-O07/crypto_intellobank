@@ -91,6 +91,5 @@ Key Features
 
 **Chukwunweike Stephen Osamezu**  
 Data Engineer | Amdari Internship  
-[LinkedIn Profile or GitHub Handle]
 
 
